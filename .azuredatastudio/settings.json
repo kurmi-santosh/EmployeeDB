@@ -1,0 +1,14 @@
+{
+    "notebook.pinnedNotebooks": [
+        {
+            "notebookPath": "/Users/santosh/Database/EmployeeDB/EmployeeDB/Emp DDL.ipynb",
+            "bookPath": "/Users/santosh/Database/EmployeeDB/EmployeeDB",
+            "title": "DDL"
+        },
+        {
+            "notebookPath": "/Users/santosh/Database/EmployeeDB/EmployeeDB/EMPLOYEEDB_DML.ipynb",
+            "bookPath": "/Users/santosh/Database/EmployeeDB/EmployeeDB",
+            "title": "DML"
+        }
+    ]
+}
